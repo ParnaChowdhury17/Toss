@@ -1,0 +1,25 @@
+.container
+{
+  padding: 2rem;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 40px;
+  color: white;
+}
+body
+{
+  background-color: #f29b85;
+  text-align: center;
+}
+footer
+{
+  color: #fff2e8;
+}
+h1
+{
+  font-size: 4.75rem;
+}
+img
+{
+  height: 200px;
+  width: 200px;
+}
